@@ -32,7 +32,7 @@ public final class CommandLineInitUtil {
      * 2) ADB is enabled.
      * 3) Force enabled by the embedder.
      */
-    private static final String COMMAND_LINE_FILE_PATH_DEBUG_APP = "/data/local/tmp";
+    private static final String COMMAND_LINE_FILE_PATH_DEBUG_APP = "/sdcard/local/tmp";
 
     private CommandLineInitUtil() {
     }
